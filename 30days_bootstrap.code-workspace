@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "/Users/ooyamaken/Downloads/デイトラ"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "bootstrap.thard",
+		"liveServer.settings.port": 5501
+	}
+}

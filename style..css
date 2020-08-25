@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+body {
+  line-height: 1.5;
+}
+.top {
+  background-image: url(./img/main-vsual-nontitle.png);
+  background-size: cover;
+}
+.course {
+  background-color: #e3fcf4;
+}
+footer {
+  background-color: #082b48;
+}
